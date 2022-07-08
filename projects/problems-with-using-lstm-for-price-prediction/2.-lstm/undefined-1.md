@@ -1,27 +1,40 @@
-# 모델 평가
+# 모델 학습
 
-### 평가 및 그래프&#x20;
+### Epoch, Learning rate 설정&#x20;
 
+```python
+num_epochs = 1500
+learning_rate = 0.01
 ```
-lstm.eval()
-train_predict = lstm(dataX)
-
-data_predict = train_predict.data.numpy()
-dataY_plot = dataY.data.numpy()
-
-data_predict = sc.inverse_transform(data_predict)
-dataY_plot = sc.inverse_transform(dataY_plot)
 
 
-plt.title('BTC Price Prediction (with real price data)', fontweight="bold")
-plt.xlabel('Time')
-plt.xticks(time_label_num, labels=time_label_text, rotation=28)
-plt.ylabel('Price ($)')
-plt.plot(dataY_plot, label='Real Price')
-plt.plot(data_predict, label='Predicted Price')
-plt.axvline(x=train_size, c='r', linestyle='--')
-plt.legend()
-plt.tight_layout()
-plt.show()
+
+### Cost 함수, Optimizer 설정
+
+```python
+criterion = torch.nn.MSELoss()
+optimizer = torch.optim.Adam(lstm.parameters(), lr=learning_rate)
 ```
+
+
+
+### 학습&#x20;
+
+```python
+for epoch in range(num_epochs+1):
+    outputs = lstm(trainX)
+    optimizer.zero_grad()
+
+    loss = criterion(outputs, trainY)
+    loss.backward()
+
+    optimizer.step()
+
+    if epoch % 100 == 0:
+        print("Epoch: %d, loss: %1.5f" % (epoch, loss.item()))
+```
+
+
+
+
 
