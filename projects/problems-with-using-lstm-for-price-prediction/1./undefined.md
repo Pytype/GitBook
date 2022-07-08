@@ -10,11 +10,11 @@
 
 {% tabs %}
 {% tab title="BTC 가격" %}
-![](../../../.gitbook/assets/Simulation\_03.PNG)
+![](../../../.gitbook/assets/01.PNG)
 {% endtab %}
 
 {% tab title="ETH 가격" %}
-
+![](../../../.gitbook/assets/02.PNG)
 {% endtab %}
 {% endtabs %}
 
