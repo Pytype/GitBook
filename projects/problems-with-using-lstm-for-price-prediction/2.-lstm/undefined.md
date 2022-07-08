@@ -1,8 +1,10 @@
 # 모델 평가
 
-### 평가 및 그래프&#x20;
+### 평가 및 그래프
 
-```
+![](../../../.gitbook/assets/01.PNG)
+
+```python
 lstm.eval()
 train_predict = lstm(dataX)
 
