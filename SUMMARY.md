@@ -33,6 +33,7 @@
     * [의문점](paper-review/dynamic-curves-for-decentralized-autonomous-cryptocurrency-exchanges/review/undefined.md)
     * [Static/Dynamic CSMM Silmulation](paper-review/dynamic-curves-for-decentralized-autonomous-cryptocurrency-exchanges/review/static-dynamic-csmm-silmulation.md)
     * [No Divergence loss in Dynamic CPMM](paper-review/dynamic-curves-for-decentralized-autonomous-cryptocurrency-exchanges/review/no-divergence-loss-in-dynamic-cpmm.md)
+* [Uniswap v2 Core](paper-review/uniswap-v2-core.md)
 
 ## Projects
 
@@ -46,4 +47,6 @@
     * [모델 학습](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined-1.md)
     * [모델 평가](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined.md)
     * [결과 그래프](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined-2.md)
-  * [3. 문제점](projects/problems-with-using-lstm-for-price-prediction/3..md)
+  * [3. 문제점](projects/problems-with-using-lstm-for-price-prediction/3./README.md)
+    * [Page 1](projects/problems-with-using-lstm-for-price-prediction/3./page-1.md)
+    * [Page 2](projects/problems-with-using-lstm-for-price-prediction/3./page-2.md)
