@@ -44,3 +44,4 @@
   * [2. LSTM](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/README.md)
     * [LSTM 모델](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/lstm.md)
     * [모델 학습](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined.md)
+    * [모델 평가](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined-1.md)
