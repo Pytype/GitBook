@@ -45,4 +45,5 @@
     * [LSTM 모델](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/lstm.md)
     * [모델 학습](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined-1.md)
     * [모델 평가](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined.md)
+    * [결과 그래프](projects/problems-with-using-lstm-for-price-prediction/2.-lstm/undefined-2.md)
   * [3. 문제점](projects/problems-with-using-lstm-for-price-prediction/3..md)
