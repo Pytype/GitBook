@@ -2,8 +2,6 @@
 
 ### 평가 및 그래프
 
-![](../../../.gitbook/assets/result2.PNG)
-
 ```python
 lstm.eval()
 train_predict = lstm(dataX)
@@ -26,4 +24,3 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
-
