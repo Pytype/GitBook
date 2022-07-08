@@ -2,7 +2,7 @@
 
 ### 평가 및 그래프
 
-![](../../../.gitbook/assets/01.PNG)
+![](../../../.gitbook/assets/result2.PNG)
 
 ```python
 lstm.eval()
