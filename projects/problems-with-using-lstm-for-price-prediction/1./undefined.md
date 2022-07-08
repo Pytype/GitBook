@@ -10,7 +10,7 @@
 
 {% tabs %}
 {% tab title="BTC 가격" %}
-
+![](../../../.gitbook/assets/Simulation\_03.PNG)
 {% endtab %}
 
 {% tab title="ETH 가격" %}
