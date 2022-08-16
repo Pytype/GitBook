@@ -3,6 +3,7 @@
 ## INFO
 
 * [Profile](README.md)
+* [Slides](info/slides.md)
 
 ## Paper Review
 
