@@ -4,6 +4,7 @@
 
 * [Profile](README.md)
 * [Slides](info/slides.md)
+* [2022 Korea FinTech Society](info/2022-korea-fintech-society.md)
 
 ## Paper Review
 
