@@ -9,8 +9,8 @@
 * [Page 5](page-5/README.md)
   * [Page 6](page-5/page-6.md)
 * [Page 4](page-4/README.md)
-  * [2022 Summer G-SURF](page-4/2022-summer-g-surf.md)
-  * [2022 Korea FinTech Society](page-4/2022-korea-fintech-society.md)
+  * [2022 Summer G-SURF](info/slides.md)
+  * [2022 Korea FinTech Society](info/2022-korea-fintech-society.md)
 
 ## Paper Review
 

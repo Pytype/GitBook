@@ -13,6 +13,6 @@ description: 2022.08 ~ 2022.12
 #### E-mail
 
 * PixelHilbert@gmail.com
-* mingo2021@gm.gist.ac.kr
+* minho2021@gm.gist.ac.kr
 
 {% embed url="https://github.com/Pytype" %}
