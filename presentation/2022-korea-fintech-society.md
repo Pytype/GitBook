@@ -1,3 +1,7 @@
+---
+description: 2022.08.25
+---
+
 # 2022 Korea FinTech Society
 
 {% embed url="https://docs.google.com/presentation/d/1yO0ReBrubJ-qKRqg3UsqLq2A8_5elYMNv9LBVcbJ2HI/edit?usp=sharing" %}
