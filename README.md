@@ -23,7 +23,7 @@ Based on my three years of experience studying blockchain, I've compiled a colle
 * 처음 배우는 블록체인(Korean)
   * A beginner's guide that explains various important concepts of blockchain in detail.
 * Programming Bitcoin, O'Reilly
-  * A book that covers everything from the basics of Bitcoin to node communication and Python coding exercises,[ with accompanying GitHub source code](https://github.com/bitcoinbook/bitcoinbook).
+  * A book that covers everything from the basics of Bitcoin to node communication and Python coding exercises, with accompanying [GitHub source code.](https://github.com/jimmysong/programmingbitcoin)
 * Blockchain in Action, Manning
   * A book that explains the process of Dapp development on blockchain, covering important checkpoints, basic smart contract syntax, and Dapp examples.
 
